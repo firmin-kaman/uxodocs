@@ -5,6 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 export default {
+  deploymentBranch: 'test-1',
   title: 'Uxopian Documentation',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
@@ -30,6 +31,8 @@ export default {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  trailingSlash: false,
 
   presets: [
     [
