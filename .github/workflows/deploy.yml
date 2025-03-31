@@ -1,9 +1,12 @@
-name: Deploy Docusaurus from branche-fille
+name: Deploy Docusaurus from test-1
 
 on:
   push:
-    branches: [test-1]
-
+    branches: 
+    - main
+    - test-1
+permissions:
+  contents: write
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
