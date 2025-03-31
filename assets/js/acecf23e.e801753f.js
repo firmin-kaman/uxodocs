@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuxo_docs=self.webpackChunkuxo_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/uxodocs/blog","blogTitle":"Blog","authorsListPath":"/uxodocs/blog/authors"}')}}]);

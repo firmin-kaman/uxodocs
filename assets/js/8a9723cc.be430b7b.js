@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuxo_docs=self.webpackChunkuxo_docs||[]).push([[4965],{5063:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/uxodocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
