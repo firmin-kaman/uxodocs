@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlowerDocs documentation
 
 Page FlowerDocs v1.0.0
@@ -47,3 +48,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+=======
+---
+id: intro
+title: Introduction
+---
+
+<<<<<<< HEAD
+Bienvenue dans la documentation Fast2.
+=======
+Bienvenue dans la documentation Arender.
+>>>>>>> ab0d277c77abf13bedf2d51b9f105959afdb9c9f
+>>>>>>> de5e44e10e51285f932087a65fd9bc74fb276e62
