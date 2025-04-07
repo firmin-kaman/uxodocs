@@ -1,3 +1,8 @@
+# FlowerDocs documentation
+
+Page FlowerDocs v1.0.0
+
+
 ---
 slug: long-blog-post
 title: Long Blog Post
